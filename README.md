@@ -2,7 +2,7 @@
 
 ### Done with a friend during a newbie session of pair programming
 
-The code is in a StackBlitz sandbox online editor instance [here]([url](https://stackblitz.com/edit/mplife-v-008-9ffivy?file=index.js&file=index.js&file=index.js)).
+The code is in a StackBlitz sandbox online editor instance [here](https://stackblitz.com/edit/mplife-v-008-9ffivy?file=index.js&file=index.js&file=index.js).
 
 [run Game of Life](https://mplife-v-008-9ffivy.stackblitz.io/)
 
